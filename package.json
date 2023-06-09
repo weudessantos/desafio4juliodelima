@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "mocha pessoa.test.js"
+    "test": "mocha ./test/pessoa.test.js"
   },
   "keywords": [],
   "author": "",
