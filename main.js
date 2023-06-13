@@ -7,6 +7,13 @@ function listarPessoas(lista){
 
     //exibindo uma tabela com todos os dados informados
 
+    console.log(`------------------------Alunos------------------------\n`)
+    console.log(`----------------------Agenor Neto-----------------------`)
+    console.log(`----------------------Ana Ranzolin----------------------`)
+    console.log(`----------------------Camila Sousa----------------------`)
+    console.log(`---------------------Eduardo Miguel---------------------`)
+    console.log(`---------------------Weudes Santos----------------------\n\n`)
+
     console.log(`------------------------Tabela com os dados informados------------------------\n\n`)
     // console.table(listaDePessoas)
     console.table(lista)

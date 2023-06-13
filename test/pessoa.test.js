@@ -6,7 +6,6 @@ describe('Teste - Desafio 4 MTS - Julio de Lima\n', function(){
     it('Verificação se a quantidade de itens na lista está correto', function(){
 
         let listaDePessoas = []
-        
 
         let pessoa1 = new Pessoa("João Martins", 17, "joao.martins@desafio4.juliodelima.com")
         let pessoa2 = new Pessoa("Rita de Cassia", 18, "rita.cassia@desafio4.juliodelima.com")
